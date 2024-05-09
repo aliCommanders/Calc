@@ -1,0 +1,16 @@
+C:\Users\DELL\source\repos\WinFormsApp6\WinFormsApp6\bin\Debug\net8.0-windows\calculator pro.exe
+C:\Users\DELL\source\repos\WinFormsApp6\WinFormsApp6\bin\Debug\net8.0-windows\calculator pro.deps.json
+C:\Users\DELL\source\repos\WinFormsApp6\WinFormsApp6\bin\Debug\net8.0-windows\calculator pro.runtimeconfig.json
+C:\Users\DELL\source\repos\WinFormsApp6\WinFormsApp6\bin\Debug\net8.0-windows\calculator pro.dll
+C:\Users\DELL\source\repos\WinFormsApp6\WinFormsApp6\bin\Debug\net8.0-windows\calculator pro.pdb
+C:\Users\DELL\source\repos\WinFormsApp6\WinFormsApp6\obj\Debug\net8.0-windows\WinFormsApp6.Form1.resources
+C:\Users\DELL\source\repos\WinFormsApp6\WinFormsApp6\obj\Debug\net8.0-windows\calculator pro.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\WinFormsApp6\WinFormsApp6\obj\Debug\net8.0-windows\calculator pro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\WinFormsApp6\WinFormsApp6\obj\Debug\net8.0-windows\calculator pro.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\WinFormsApp6\WinFormsApp6\obj\Debug\net8.0-windows\calculator pro.AssemblyInfo.cs
+C:\Users\DELL\source\repos\WinFormsApp6\WinFormsApp6\obj\Debug\net8.0-windows\calculator pro.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\WinFormsApp6\WinFormsApp6\obj\Debug\net8.0-windows\calculator pro.dll
+C:\Users\DELL\source\repos\WinFormsApp6\WinFormsApp6\obj\Debug\net8.0-windows\refint\calculator pro.dll
+C:\Users\DELL\source\repos\WinFormsApp6\WinFormsApp6\obj\Debug\net8.0-windows\calculator pro.pdb
+C:\Users\DELL\source\repos\WinFormsApp6\WinFormsApp6\obj\Debug\net8.0-windows\calculator pro.genruntimeconfig.cache
+C:\Users\DELL\source\repos\WinFormsApp6\WinFormsApp6\obj\Debug\net8.0-windows\ref\calculator pro.dll
